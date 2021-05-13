@@ -1,0 +1,43 @@
+.small-table1{
+   padding-left: 40px;
+   text-align: center;
+ }
+ .small-table2{
+    color: #511281;
+ }
+    .main{
+        margin-left: 250px;
+        margin-right: 250px;
+        margin-top: 150px;
+        margin-bottom: 50px;
+       
+    }
+     }
+     .column-gap{
+       cellspacing:20px;
+     }
+ body{
+     background-color: #220e24;
+ }
+ .three{
+     text-align: left;
+ }
+ h1,h2{
+     color:white;
+     font-Family: [Inter](https://fonts.google.com/specimen/Inter);
+     font-weight:400, 700;
+ }
+ h3,h4{
+    color:#9ba4b4;
+    font-family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca);
+    font-weight:
+ }
+ .image{
+     background-color:#b088f9 ;
+ }
+ .end{
+     text-align: end;
+     color:white;
+     padding-right: 600px;
+     padding-top:10px ;
+ }
